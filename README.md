@@ -12,7 +12,7 @@ requirements : opencv-python
 
 ## Run demo with pretrained model
 
-1.Download pretrained model from here(https://drive.google.com/file/d/1A-8H_mhUnipoCaJvDUOJf4pCgjKobMA9/view?usp=sharing)
+1.Download pretrained model from [here](https://drive.google.com/file/d/1A-8H_mhUnipoCaJvDUOJf4pCgjKobMA9/view?usp=sharing)
 
 ```
 python3 demo.py --video-path=[path] --resume-path=[path]
