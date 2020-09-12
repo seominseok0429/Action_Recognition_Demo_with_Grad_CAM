@@ -21,5 +21,5 @@ python3 demo.py --video-path=[path] --resume-path=[path]
 ## 
 
 <div align="center">
-  <img src="d/activations.gif" width="800px"/>
+  <img src="video_list/grad_cam.gif" width="800px"/>
 </div>
