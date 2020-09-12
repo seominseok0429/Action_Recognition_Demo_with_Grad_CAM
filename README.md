@@ -18,7 +18,7 @@ requirements : opencv-python
 python3 demo.py --video-path=[path] --resume-path=[path]
 ```
 
-## 
+## Demo
 
 <div align="center">
   <img src="video_list/grad_cam.gif" width="800px"/>
